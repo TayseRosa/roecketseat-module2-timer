@@ -14,7 +14,7 @@ Desenvolvimento de uma página para conhecimentos das seguintes áreas:
 
 Demonstração do projeto:
 
-![Logo](readme.png)
+<img src="readme.png" width="300">
 
 
 ## 🚀 Sobre mim
