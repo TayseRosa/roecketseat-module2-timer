@@ -11,6 +11,9 @@ Desenvolvimento de uma página para conhecimentos das seguintes áreas:
 - typescript
 - Prop Drilling -> (Quando a gente tem MUITAS propriedades APENAS para a comunicação entre components)
 - context API -> (Permite compartilharmos informações entre vários components ao mesmo tempo, resolvendo o problema de Prop Drilling)
+- Context
+- Reducers
+- Immer
 - Dentre muitos outros conhecimentos...
 
 
