@@ -1,5 +1,6 @@
 
 # Projeto Ignite - React JS - Timer
+<img src="readme.png" width="500">
 
 Desenvolvimento de uma página para conhecimentos das seguintes áreas:
 
@@ -8,13 +9,12 @@ Desenvolvimento de uma página para conhecimentos das seguintes áreas:
 - componentes
 - stytled-componentes
 - typescript
+- Prop Drilling -> (Quando a gente tem MUITAS propriedades APENAS para a comunicação entre components)
+- context API -> (Permite compartilharmos informações entre vários components ao mesmo tempo, resolvendo o problema de Prop Drilling)
 - Dentre muitos outros conhecimentos...
 
-## Demonstração
 
-Demonstração do projeto:
-
-<img src="readme.png" width="500">
+---
 
 
 ## 🚀 Sobre mim
